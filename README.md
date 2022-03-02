@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [https://velog.io/@grit_munhyeok](https://velog.io/@grit_munhyeok)
 
-- 📫 How to reach me **mhkang9960@gmail.com**
+- 📫 How to reach me (Personal)**mhkang9960@gmail.com** or (Business)**gritdevelop@gmail.com**
 
 - ⚡ Fun fact **대화하는 걸 참 좋아합니다**
 
