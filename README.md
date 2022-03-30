@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [겜린더 (서비스 중)](http://onelink.to/9qr2hg)
 
-- 🌱 I’m currently learning **React Native, Selenium, Pandas**
+- 🌱 I’m currently learning **React Native, Selenium, Pandas, Unity Engine**
 
 - 📝 I regularly write articles on [https://velog.io/@grit_munhyeok](https://velog.io/@grit_munhyeok)
 
