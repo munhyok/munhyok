@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Munhyeok Kang</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=munhyok&label=Profile%20views&color=e69d29&style=flat" alt="munhyok" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=munhyok" alt="munhyok" /></a> </p>
+
 
 - 🔭 I’m currently working on [겜린더 (서비스 중)](http://onelink.to/9qr2hg)
 
