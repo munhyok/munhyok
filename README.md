@@ -9,7 +9,9 @@
 
 <h2>Project</h2>
 <p>
-  <img src="https://github.com/munhyok/munhyok/assets/11683617/788e89b6-8356-4877-bfd1-0f46076ec318" href="http://onelink.to/9qr2hg">
+  <a  href="http://onelink.to/9qr2hg">
+    <img src="https://github.com/munhyok/munhyok/assets/11683617/788e89b6-8356-4877-bfd1-0f46076ec318">
+  </a>
 </p>
 
 <h2>Languages</h2>
