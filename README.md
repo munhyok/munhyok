@@ -1,6 +1,5 @@
 <h1>Hi I'm Munhyeok Kang 👋</h1>
 <p>
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white">
   <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white&link=https%3A%2F%2Fvelog.io%2F%40grit_munhyeok">
   <img src="https://img.shields.io/badge/Munhyeok-0A66C2?style=flat-square&logo=linkedin&logoColor=white&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fmunhyeok-kang-66bb491ba%2F">
   <img src="https://img.shields.io/badge/mhkang9960%40gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white">
@@ -17,6 +16,7 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white">
   <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=Go&logoColor=white">
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white">
 </p>
 <p>
   <img src="https://img.shields.io/badge/React Native-61DAFB?style=flat-square&logo=React&logoColor=white">
