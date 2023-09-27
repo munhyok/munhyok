@@ -8,8 +8,9 @@
 
 
 <h2>Project</h2>
-<a href="http://onelink.to/9qr2hg">겜린더(Gamelndar)</a>
-
+<p>
+  <img src="https://github.com/munhyok/munhyok/assets/11683617/788e89b6-8356-4877-bfd1-0f46076ec318" href="http://onelink.to/9qr2hg">
+</p>
 
 <h2>Languages</h2>
 <p>
