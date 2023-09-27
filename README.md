@@ -25,7 +25,7 @@
 </p>
 
 
-<h2>BackEnd</h2>
+<h2>Back-End</h2>
 <p>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white">
 </p>
