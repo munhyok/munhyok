@@ -16,6 +16,7 @@
 <p>
   <a  href="http://onelink.to/9qr2hg">
     <img src="https://github.com/munhyok/munhyok/assets/11683617/788e89b6-8356-4877-bfd1-0f46076ec318">
+    겜린더
   </a>
 </p>
 
