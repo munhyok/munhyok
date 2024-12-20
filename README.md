@@ -13,7 +13,7 @@
 </p>
 
 
-<h2>Project</h2>
+<h2>Project (이미지 클릭 시 프로젝트 관련 링크로 이동)</h2>
 <p>
   <a href="https://onelink.to/un8yab">
     
