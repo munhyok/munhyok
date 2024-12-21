@@ -15,17 +15,12 @@
 
 <h2>Main Project</h2>
 
-  
-  
   <a href="https://onelink.to/un8yab">
     
   <img width="40px" src="https://github.com/user-attachments/assets/6dd95a97-f10c-48aa-897b-d1f35394c6d4">
-
+  겜린더 (App)
   </a>
 
-  <a href="https://onelink.to/un8yab">겜린더</a>
-
-  
 
 
 <h2>Languages</h2>
