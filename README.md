@@ -18,7 +18,7 @@
   <a href="https://onelink.to/un8yab">
     
   <img width="40px" src="https://github.com/user-attachments/assets/6dd95a97-f10c-48aa-897b-d1f35394c6d4">
-  겜린더 (App)
+  
   </a>
 
 
